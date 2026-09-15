@@ -2,7 +2,7 @@
 
 A beginner-friendly data analytics project exploring pricing strategies, discounts, customer ratings, and brand performance across 52,000+ fashion listings on Myntra. This project combines **SQL** for exploratory data analysis and **Power BI** for visual reporting.
 
-![Dashboard Preview](Screenshot 2026-09-15 123809.png)
+![Dashboard Preview](dashboard_preview1.png)
 
 ---
 
