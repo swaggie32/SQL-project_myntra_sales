@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project exploring pricing strategies, discount distribution, customer rating patterns, and brand positioning across 52,000+ fashion apparel listings on Myntra.
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dataset-cover.png)
 
 ## 📌 Project Overview
 - **Data Source**: Web-scraped e-commerce data containing 52,120 product listings across 417 brands.
